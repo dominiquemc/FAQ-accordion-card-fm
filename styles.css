@@ -1,0 +1,16 @@
+:root {
+  --tx-dk-desat-blue: hsl(238, 29%, 16%);
+  --tx-soft-red: hsl(14, 88%, 65%);
+  --tx-vdk-gray-blue: hsl(237, 12%, 33%);
+  --tx-dk-gray-blue: hsl(240, 6%, 50%);
+  --bg-soft-violet: hsl(273, 75%, 66%);
+  --bg-soft-blue: hsl(240, 73%, 65%);
+  --div-li-gray-blue: hsl(240, 5%, 91%);
+  --ff-size-12: 12px;
+  --ff-primary: "Kumbh Sans", sans-serif;
+}
+
+body {
+  font-family: var(--ff-primary);
+  font-size: var(--ff-size-12);
+}
